@@ -89,7 +89,7 @@ bene_add = Beneficiary.add("kit_test6", "ankur", "ankur@cashfree.com", "99999999
 ```
 [Readme](cashfree_sdk/exceptions) for the exception thrown for invalid operation and how to handle the exceptions.
 
-- For more information about the APIs go to [Payouts](Payouts).
+- For more information about the APIs go to [Payouts](https://github.com/cashfree/cashfree-sdk-python/tree/master/cashfree_sdk/payouts).
 - Complete list of [APIs](https://docs.cashfree.com/docs/payout/guide/#fetch-beneficiary-id).
 ### TODO
 - [ ] PG
